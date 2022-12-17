@@ -1,0 +1,16 @@
+{
+  "group": "wetsponge",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sponge"
+    },
+    {
+      "item": "minecraft:potion"
+    }
+  ],
+  "result": {
+    "item": "minecraft:wet_sponge",
+    "count": 1
+  }
+}

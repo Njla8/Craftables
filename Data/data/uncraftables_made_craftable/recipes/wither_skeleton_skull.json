@@ -1,0 +1,42 @@
+{
+  "group": "witherskeletonskull",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:soul_sand"
+    },
+    "1": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "2": {
+      "item": "minecraft:soul_sand"
+    },
+    "3": {
+      "item": "minecraft:wither_rose"
+    },
+    "4": {
+      "item": "minecraft:soul_soil"
+    },
+    "5": {
+      "item": "minecraft:wither_rose"
+    },
+    "6": {
+      "item": "minecraft:soul_sand"
+    },
+    "7": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "8": {
+      "item": "minecraft:soul_sand"
+    }
+  },
+  "result": {
+    "item": "minecraft:wither_skeleton_skull",
+    "count": 1
+  }
+}

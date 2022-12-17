@@ -1,0 +1,10 @@
+{
+  "group": "seed",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 50,
+  "ingredient": {
+    "item": "minecraft:poisonous_potato"
+  },
+  "result": "minecraft:wheat_seeds"
+}

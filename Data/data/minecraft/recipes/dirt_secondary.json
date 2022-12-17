@@ -1,0 +1,16 @@
+{
+  "group": "dirt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dirt",
+    "count": 6
+  }
+}

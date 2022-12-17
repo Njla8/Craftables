@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "uncraftables_made_craftable:items/diamond_nugget-removebg-preview"
+  }
+}

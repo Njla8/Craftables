@@ -1,0 +1,16 @@
+{
+  "group": "flint",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:wooden_shovel"
+    }
+  ],
+  "result": {
+    "item": "minecraft:flint",
+    "count": 2
+  }
+}

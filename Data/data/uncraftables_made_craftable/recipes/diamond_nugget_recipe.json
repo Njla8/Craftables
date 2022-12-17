@@ -1,0 +1,13 @@
+{
+  "group": "diamondnugget",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "uncraftables_made_craftable:diamond_nugget",
+    "count": 9
+  }
+}

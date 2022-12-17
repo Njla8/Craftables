@@ -1,0 +1,37 @@
+{
+  "group": "diamond",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "uncraftables_made_craftable:diamond_nugget"
+    },
+    {
+      "item": "uncraftables_made_craftable:diamond_nugget"
+    },
+    {
+      "item": "uncraftables_made_craftable:diamond_nugget"
+    },
+    {
+      "item": "uncraftables_made_craftable:diamond_nugget"
+    },
+    {
+      "item": "uncraftables_made_craftable:diamond_nugget"
+    },
+    {
+      "item": "uncraftables_made_craftable:diamond_nugget"
+    },
+    {
+      "item": "uncraftables_made_craftable:diamond_nugget"
+    },
+    {
+      "item": "uncraftables_made_craftable:diamond_nugget"
+    },
+    {
+      "item": "uncraftables_made_craftable:diamond_nugget"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 1
+  }
+}

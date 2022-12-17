@@ -1,0 +1,9 @@
+{
+  "group": "ancientdebrissmelted",
+  "type": "minecraft:stonecutting",
+  "count": 4,
+  "ingredient": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": "minecraft:ancient_debris"
+}

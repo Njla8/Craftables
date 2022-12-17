@@ -1,0 +1,42 @@
+{
+  "group": "bottleofenchanting",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sculk"
+    },
+    "1": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "2": {
+      "item": "minecraft:sculk"
+    },
+    "3": {
+      "item": "minecraft:sculk"
+    },
+    "4": {
+      "item": "minecraft:glass_bottle"
+    },
+    "5": {
+      "item": "minecraft:sculk"
+    },
+    "6": {
+      "item": "minecraft:sculk"
+    },
+    "7": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "8": {
+      "item": "minecraft:sculk"
+    }
+  },
+  "result": {
+    "item": "minecraft:experience_bottle",
+    "count": 3
+  }
+}
